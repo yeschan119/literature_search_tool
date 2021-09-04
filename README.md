@@ -8,12 +8,13 @@ develop tool for literature search
 ## 👨Members
   + 1인 프로젝트
 <br>
-## 🧑‍💻Tech
+## **🧑‍💻Tech**
   + Python
   + MySQL
   + AWS RDS
   + 자연어 처리
   + 병렬 프로그램
+  +
 <br>
 
 ## 🏃🏻‍♂️Task(7월 마지막 주부터 진행)
