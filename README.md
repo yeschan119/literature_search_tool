@@ -16,7 +16,7 @@ develop tool for literature search
   + AWS RDS
   + 자연어 처리
   + 병렬 프로그램
-  +
+  
 <br>
 
 ## 🏃🏻‍♂️Task(7월 마지막 주부터 진행)
