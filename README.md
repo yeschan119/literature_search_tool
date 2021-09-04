@@ -7,8 +7,10 @@ develop tool for literature search
   + 해당 논문을 분석하고 논문 내용에 이상사례가 있는지 판단
 ## 👨Members
   + 1인 프로젝트
+  
 <br>
-## **🧑‍💻Tech**
+
+## 🧑‍💻Tech
   + Python
   + MySQL
   + AWS RDS
