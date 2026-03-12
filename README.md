@@ -1,4 +1,4 @@
-# literature_search_tool
+# Literature Search Application
 develop tool for literature search
 
 ## 🗣Purpose
