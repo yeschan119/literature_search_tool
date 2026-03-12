@@ -1,4 +1,4 @@
-# Python Literature Search & Adverse Event Detection Tool
+# Python Literature Search & Adverse Event Detection Tool - 대응제약 약물감시팀 프로젝트
 ### Python 기반 의학 논문 검색 및 이상사례 탐지 시스템
 
 의약품과 관련된 **의학 논문을 자동 검색하고 분석하기 위한 Python 기반 문헌 분석 시스템**입니다.
